@@ -36,7 +36,7 @@ Configuration file: /Users/philipjohnson/github/kaj2/kaj2.github.io/_config.yml
 
 The site should now be available at http://localhost:4000.  Each time you edit the source files, the site should be regenerated. Just refresh the page in your browser to see the update.
 
-If you are returned to the command line, then there was an error.  Re-run the command without the `serve 2>/dev/null` to see what went wrong. 
+If you are returned to the command line, then there was an error.  Re-run the command without the `serve 2>/dev/null` to see what went wrong.
 
 ## Structure
 
